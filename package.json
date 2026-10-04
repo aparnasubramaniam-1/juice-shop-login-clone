@@ -1,0 +1,13 @@
+{
+  "name": "juice-shop-login-clone",
+  "version": "1.0.0",
+  "description": "A simple login form with client-side and server-side validation, built for a web security assignment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
